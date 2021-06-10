@@ -1,0 +1,30 @@
+﻿  Board.cpp
+  main.cpp
+  Random.cpp
+C:\Users\Jerry Zhang\source\repos\Project_Minesweeper\Project_Minesweeper\Random.cpp(4,33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Jerry Zhang\source\repos\Project_Minesweeper\Project_Minesweeper\Random.cpp(8,47): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Jerry Zhang\source\repos\Project_Minesweeper\Project_Minesweeper\Random.cpp(8,42): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Jerry Zhang\source\repos\Project_Minesweeper\Project_Minesweeper\Random.cpp(9,13): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Jerry Zhang\source\repos\Project_Minesweeper\Project_Minesweeper\Random.cpp(13,50): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Jerry Zhang\source\repos\Project_Minesweeper\Project_Minesweeper\Random.cpp(13,45): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Jerry Zhang\source\repos\Project_Minesweeper\Project_Minesweeper\Random.cpp(14,13): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  TextureManager.cpp
+  Tile.cpp
+  Generating Code...
+sfml-graphics-s.lib(RenderStates.cpp.obj) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
